@@ -1,0 +1,6 @@
+C:\Users\AJ\SkyDrive\Documents\Visual Studio 2012\Projects\cse353_p2_andrew_burns\cse353_p2_andrew_burns\bin\Debug\cse353_p2_andrew_burns.exe.config
+C:\Users\AJ\SkyDrive\Documents\Visual Studio 2012\Projects\cse353_p2_andrew_burns\cse353_p2_andrew_burns\bin\Debug\cse353_p2_andrew_burns.exe
+C:\Users\AJ\SkyDrive\Documents\Visual Studio 2012\Projects\cse353_p2_andrew_burns\cse353_p2_andrew_burns\bin\Debug\cse353_p2_andrew_burns.pdb
+C:\Users\AJ\SkyDrive\Documents\Visual Studio 2012\Projects\cse353_p2_andrew_burns\cse353_p2_andrew_burns\obj\Debug\cse353_p2_andrew_burns.csprojResolveAssemblyReference.cache
+C:\Users\AJ\SkyDrive\Documents\Visual Studio 2012\Projects\cse353_p2_andrew_burns\cse353_p2_andrew_burns\obj\Debug\cse353_p2_andrew_burns.exe
+C:\Users\AJ\SkyDrive\Documents\Visual Studio 2012\Projects\cse353_p2_andrew_burns\cse353_p2_andrew_burns\obj\Debug\cse353_p2_andrew_burns.pdb
